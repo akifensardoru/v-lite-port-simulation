@@ -1,0 +1,1 @@
+ /Users/aedoru/vlite_frontend/.dart_tool/flutter_build/3bbf40fd8db1e05d79cfafa0a72c9d26/native_assets.json: 
